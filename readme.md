@@ -2,7 +2,16 @@
 
 My name is Wanderson Gustavo and I am a front-end web developer from São Paulo. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device. I'm currently working as a freelancer with some simple projects.
 
-I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) 
+I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) .
+
+You can find me here too 👇
+<div>
+
+<a href="https://www.linkedin.com/in/wandersongustavo/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+</div>
 
 
 
