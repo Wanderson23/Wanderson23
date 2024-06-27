@@ -1,8 +1,8 @@
 ## Hello, there ✌
 
-My name is Wanderson Gustavo and I am a front-end web developer from São Paulo. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device. I'm currently working as a freelancer with some simple projects.
+My name is Wanderson Gustavo and I am a Business and data Analyst from São Paulo. I like programing and one of my goals is to create awesome websites and applications that solve real world problems. At the moment, I'm working and studying with some simple projects.
 
-I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) .
+I'm currently open for new projects and opportunities, so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) .
 
 You can find me here too 👇
 <div>
@@ -20,6 +20,7 @@ You can find me here too 👇
 
 In the front-end
 
+![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=ffff00&logo=python&logoColor=L7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
