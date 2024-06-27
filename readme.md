@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Wanderson Gustavo and I am a Business and data Analyst from São Paulo. I like programing and one of my goals is to create awesome websites and applications that solve real world problems. At the moment, I'm working and studying with some simple projects.
+My name is Wanderson Gustavo and I am a Business and data Analyst from São Paulo. I like programing and one of my goals is to create awesome applications and websites using datas that solve real world problems. At the moment, I'm working and studying with some simple projects.
 
 I'm currently open for new projects and opportunities, so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) .
 
@@ -18,7 +18,6 @@ You can find me here too 👇
 ### Here's some of the stuff I like (and I'm learning how) to use
 
 
-In the front-end
 
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=ffff00&logo=python&logoColor=L7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
