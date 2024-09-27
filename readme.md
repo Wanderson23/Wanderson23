@@ -21,6 +21,9 @@ You can find me here too 👇
 
 ![Python](https://img.shields.io/badge/-Python-232323?style=for-the-badge&labelColor=ffff00&logo=python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-232323?style=for-the-badge&labelColor=4169e1&logo=postgresql&logoColor=ffffff)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-232323?style=for-the-badge&labelColor=5A9FD4&logo=scrapy&logoColor=ffffff)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=for-the-badge&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=for-the-badge&labelColor=CC6699&logo=sass&logoColor=ffffff)
