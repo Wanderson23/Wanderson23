@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Wanderson Gustavo and I am a Business and data Analyst from São Paulo. I like programing and one of my goals is to create awesome applications and websites using datas that solve real world problems. At the moment, I'm working and studying with some simple projects.
+My name is Wanderson Gustavo and I'm a Business and Data Analyst based in São Paulo. I like programing and one of my goals is to create awesome applications and websites using datas that solve real world problems. At the moment, I'm working and studying with some simple projects.
 
 I'm currently open for new projects and opportunities, so you can reach me trough [WhatsApp](https://wa.me/5511995592303),  or [email](mailto:wgvieira11@hotmail.com) .
 
@@ -15,7 +15,7 @@ You can find me here too 👇
 
 
 
-### Here's some of the stuff I like (and I'm learning how) to use
+### Here's some of the stacks I like (and I'm learning how) to use
 
 
 
