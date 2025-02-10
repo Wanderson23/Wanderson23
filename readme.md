@@ -27,7 +27,7 @@ You can find me here too 👇
 ![NUMPY](https://camo.githubusercontent.com/dfba2a5ec89e3df8642ef5cccbf01ea8f597476812f0823be491b11c34e1c990/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=for-the-badge&labelColor=1572B6&logo=css3&logoColor=ffffff)
